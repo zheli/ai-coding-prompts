@@ -1,5 +1,5 @@
-# cursor-prompts
-My cursor prompt selection
+# ai-coding-prompts
+My ai coding prompt selections
 
 ## General workflow
 1. Create a specification document based on the project requirements
