@@ -2,7 +2,7 @@
 My ai coding prompt selections
 
 ## General workflow
-1. Create a specification document based on the project requirements
+1. Create a specification document based on the project requirements (inspired by https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/)
 ```
 I would like to create a tool to/a service/a product to/for ...
 
